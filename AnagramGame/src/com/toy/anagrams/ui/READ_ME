@@ -1,3 +1,11 @@
+<<<<<<< OURS
+primer commit: 1
+creando branch1, segundo commit: 2
+seguimos en el branch1, tercer commit: 3
+merge del 1y3 , cuarto commit: 4
+
+mucho avanzan mis ramas, noveno commit:9
+=======
 primer commit: 1
 creando branch1, segundo commit: 2
 seguimos en el branch1, tercer commit: 3
@@ -5,3 +13,4 @@ merge del 1y3 , cuarto commit: 4
 
 el commit 6, sexto commit: 6
 pues el commit 7, séptimo commit: 7
+>>>>>>> THEIRS
